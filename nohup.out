@@ -1371,3 +1371,89 @@ Traceback (most recent call last):
   File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
     raise JSONDecodeError("Expecting value", s, err.value) from None
 json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Serving on http://localhost:8080
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define machine translation', 'project': 'spawn_wiki', 'model': 'spawn'}
+CRF MODEL LOADED
+{'success': True, 'entities': {'tag': ['machine translation']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Fernando Torres', 'project': 'spawn_wiki', 'model': 'spawn'}
+Fernando Torres PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Fernando Torres', 'project': 'spawn_wiki', 'model': 'spawn'}
+Fernando Torres PERSON
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.8835815787315369}, 'entities': [], 'text': 'fantastic', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.929422914981842}, 'entities': [], 'text': 'who is professor spawn', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['professor spawn']}}
+{'intent': {'name': 'bot_love', 'confidence': 0.8946451544761658}, 'entities': [], 'text': "I don't like you", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.6991759538650513}, 'entities': [], 'text': "I don't want your help", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your help']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.9195468425750732}, 'entities': [], 'text': 'what can you do', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.9217586517333984}, 'entities': [], 'text': 'what is your name', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your name']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.8500593304634094}, 'entities': [], 'text': 'need help', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['need help']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is machine learning', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['machine learning']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is neural translation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['neural translation']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is machine translation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['machine translation']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'definition of machine translation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['machine translation']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'artificial intelligence definition', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['artificial intelligence']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.6338562965393066}, 'entities': [], 'text': 'can you tell me about Amit Shah', 'project': 'spawn_wiki', 'model': 'spawn'}
+Amit Shah PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.6338562965393066}, 'entities': [], 'text': 'can you tell me about Bharatiya Janata Party', 'project': 'spawn_wiki', 'model': 'spawn'}
+Bharatiya Janata Party ORG
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'are you idiot', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['you idiot']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.8253597617149353}, 'entities': [], 'text': 'what is your strength', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your strength']}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.919914960861206}, 'entities': [], 'text': 'OK great', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6909744143486023}, 'entities': [], 'text': 'professor spawn', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['professor spawn']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'mothrfucker', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7615753412246704}, 'entities': [], 'text': 'i dont want your hlp', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your hlp']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.5737958550453186}, 'entities': [], 'text': 'i dont want your help', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your help']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'no hel', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['no hel']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.8500593304634094}, 'entities': [], 'text': 'no help', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['no help']}}
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'you are stupid bitch', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['stupid bitch']}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.9102338552474976}, 'entities': [], 'text': 'great', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.9329782128334045}, 'entities': [], 'text': 'awesome', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_thanks', 'confidence': 0.8827897310256958}, 'entities': [], 'text': 'thanks', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'greet', 'confidence': 0.6509495973587036}, 'entities': [], 'text': 'what are you doing', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'WhatsApp', 'project': 'spawn_wiki', 'model': 'spawn'}
+WhatsApp ORG
+{'intent': {'name': 'bot_shutup', 'confidence': 0.4459616243839264}, 'entities': [], 'text': "hey what's up", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['up']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.5261032581329346}, 'entities': [], 'text': 'what you doing', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'are you busy', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'no', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.8253597617149353}, 'entities': [], 'text': 'what is your profession', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your profession']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define busy', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['busy']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'busy', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_hi', 'confidence': 0.8588588237762451}, 'entities': [], 'text': 'spawn', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
