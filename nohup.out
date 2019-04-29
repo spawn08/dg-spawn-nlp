@@ -1,0 +1,1373 @@
+Serving on http://localhost:8080
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Avengers infinity movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Avengers ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Avengers infinity war movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Avengers ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'avengers infinity war movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+CRF MODEL LOADED
+{'success': True, 'entities': {'movie': ['avengers infinity war']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Asta la vista movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Asta ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Hasta la vista', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'movie': ['Hasta la vista']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.9309558272361755}, 'entities': [], 'text': 'who is professor spawn', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['professor spawn']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.9179491996765137}, 'entities': [], 'text': 'what can you do', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.8030287623405457}, 'entities': [], 'text': 'what things you cando', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.9182648062705994}, 'entities': [], 'text': 'what things you can do', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_love', 'confidence': 0.90872722864151}, 'entities': [], 'text': 'i love you biatch', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_love', 'confidence': 0.90872722864151}, 'entities': [], 'text': 'i love you bitch', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7548818588256836}, 'entities': [], 'text': 'who is Narendra Modie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Narendra Modie PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.7548818588256836}, 'entities': [], 'text': 'who is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Narendra Modi PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.9057125449180603}, 'entities': [], 'text': 'what skills you do', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.8454004526138306}, 'entities': [], 'text': 'how the hell are you', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'movie': ['how the hell']}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.9206988215446472}, 'entities': [], 'text': 'great', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'greet', 'confidence': 0.4881749749183655}, 'entities': [], 'text': 'ok', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'thans', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_thanks', 'confidence': 0.862167477607727}, 'entities': [], 'text': 'thanks', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'thanos', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Thanos', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Thanos ORG
+{'intent': {'name': 'bot_shutup', 'confidence': 0.5261549949645996}, 'entities': [], 'text': 'Batman The Dark Knight Rises', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'movie': ['Batman The Dark']}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.6605831980705261}, 'entities': [], 'text': 'shut you up', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.886301577091217}, 'entities': [], 'text': 'shut up', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['up']}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.9009681344032288}, 'entities': [], 'text': 'shut the fuck up', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'movie': ['shut the fuck']}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.5261549949645996}, 'entities': [], 'text': 'Batman The Dark Knight Rises movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'movie': ['Batman The Dark']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Hasta la vista movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'movie': ['Hasta la vista']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6637199521064758}, 'entities': [], 'text': 'what is neural network', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6637199521064758}, 'entities': [], 'text': 'what is fuzzy logic', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['fuzzy logic']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6637199521064758}, 'entities': [], 'text': 'what is neural translation', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['neural translation']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6637199521064758}, 'entities': [], 'text': 'what is neural machine translation', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['neural machine']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6637199521064758}, 'entities': [], 'text': 'what is machine translation', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['machine translation']}}
+Narendra Modi PERSON
+{'intent': {'name': 'bot_quotes', 'confidence': 0.4470573663711548}, 'entities': [], 'text': 'tell me about Bhairava movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Bhairava NORP
+Bhairava NORP
+{'intent': {'name': 'bot_quotes', 'confidence': 0.4470573663711548}, 'entities': [], 'text': 'tell me about Pyaar Vyaar movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Pyaar Vyaar PERSON
+Pyaar Vyaar PERSON
+{'intent': {'name': 'bot_quotes', 'confidence': 0.4470573663711548}, 'entities': [], 'text': 'tell me about Ishq Vishq movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Ishq Vishq PERSON
+Ishq Vishq PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Aashiqui movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Aashiqui ORG
+Aashiqui ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'when was Aashiqui 2 movie released', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Aashiqui 2 ORG
+Aashiqui 2 ORG
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.49513867497444153}, 'entities': [], 'text': 'ok fantastic', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.7266890406608582}, 'entities': [], 'text': 'ok great', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7750645875930786}, 'entities': [], 'text': 'who is abou', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['abou']}}
+{'intent': {'name': 'bot_thanks', 'confidence': 0.8843884468078613}, 'entities': [], 'text': 'ok thanks', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['ok thanks']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.5864914059638977}, 'entities': [], 'text': 'where is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'bot_quotes', 'confidence': 0.5077031850814819}, 'entities': [], 'text': 'tell me about the Dark Knight Rises', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['Dark Knight']}}
+{'intent': {'name': 'bot_quotes', 'confidence': 0.5077031850814819}, 'entities': [], 'text': 'tell me about The Dark Knight Rises', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+The Dark Knight Rises WORK_OF_ART
+{'intent': {'name': 'bot_quotes', 'confidence': 0.6010900139808655}, 'entities': [], 'text': 'tell me about Dark Knight Rises', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['Dark Knight']}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.3945864140987396}, 'entities': [], 'text': 'The Dark Knight Rises movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['The Dark']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Dark Knight Rises movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['Dark Knight']}}
+{'intent': {'name': 'bot_quotes', 'confidence': 0.5077031850814819}, 'entities': [], 'text': 'tell me about the Dark Knight Rises movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['Dark Knight']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Dark Knight movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Dark Knight PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'avengers movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['avengers']}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.3945864140987396}, 'entities': [], 'text': 'the dark knight rises movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'dark knight rises movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Dark Knight Rises movie details', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['Dark Knight']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Inception movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Inception movie release date', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'inception movie release date', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'release date of inception', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'release date of inception movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7750645875930786}, 'entities': [], 'text': 'who is narendra modi', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['narendra modi']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4951503872871399}, 'entities': [], 'text': 'what is fourier transform', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['fourier transform']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4951503872871399}, 'entities': [], 'text': 'what is fourier series', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['fourier series']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4951503872871399}, 'entities': [], 'text': 'what is series', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['series']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4951503872871399}, 'entities': [], 'text': 'what is machine', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['machine']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4951503872871399}, 'entities': [], 'text': 'what is a machine', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['a machine']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4951503872871399}, 'entities': [], 'text': 'what is neural', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['neural']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4951503872871399}, 'entities': [], 'text': 'what is neural net', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['neural net']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4951503872871399}, 'entities': [], 'text': 'what is neural netwok', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['neural netwok']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4951503872871399}, 'entities': [], 'text': 'what is artificial intelligence', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'tag': ['artificial intelligence']}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.3945864140987396}, 'entities': [], 'text': 'The Dark Knight Rises', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['The Dark']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Dark Knight Rises', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['Dark Knight']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Avengers Infinity war detail', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Avengers Infinity ORG
+Avengers Infinity ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Avengers Infinity War movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Avengers Infinity War ORG
+Avengers Infinity War ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Avengers 3 movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Avengers 3 ORG
+Avengers 3 ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Avengers 2 movie', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Avengers 2 ORG
+Avengers 2 ORG
+{'intent': {'name': 'bot_skills', 'confidence': 0.9072142243385315}, 'entities': [], 'text': 'what are your skills and what you can do', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {'meaning': ['your skills']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.6208743453025818}, 'entities': [], 'text': 'skills', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'greet', 'confidence': 0.8042339086532593}, 'entities': [], 'text': 'you are an idiot', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.9275120496749878}, 'entities': [], 'text': 'headphone how are you', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7279127836227417}, 'entities': [], 'text': 'who is the Abu Dhabi', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+the Abu Dhabi ORG
+the Abu Dhabi ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Abu Dhabi', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Abu Dhabi PERSON
+Abu Dhabi PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Abu Dhabi place', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Abu Dhabi ORG
+Abu Dhabi ORG
+{'intent': {'name': 'spawn_name', 'confidence': 0.5864914059638977}, 'entities': [], 'text': 'where is Abu Dhabi', 'project': 'spawn_wiki', 'model': 'spawn_test'}
+Abu Dhabi ORG
+Abu Dhabi ORG
+{'intent': {'name': 'spawn_name', 'confidence': 0.419925332069397}, 'entities': [], 'text': 'what is the capital of Mumbai', 'project': 'spawn_wiki', 'model': 'spawn_test'}Serving on http://localhost:8080
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'you are an idiot', 'project': 'spawn_wiki', 'model': 'spawn'}
+CRF MODEL LOADED
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_love', 'confidence': 0.7231560945510864}, 'entities': [], 'text': 'i dont like you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'you are shit', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.919914960861206}, 'entities': [], 'text': 'ok great', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.7578210830688477}, 'entities': [], 'text': 'you are fantastic', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['fantastic']}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.8835815787315369}, 'entities': [], 'text': 'fantastic four', 'project': 'spawn_wiki', 'model': 'spawn'}
+four CARDINAL
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.8835815787315369}, 'entities': [], 'text': 'Fantastic Four', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Fantastic Four']}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.8835815787315369}, 'entities': [], 'text': 'Fantastic Four movie', 'project': 'spawn_wiki', 'model': 'spawn'}
+Four CARDINAL
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.8835815787315369}, 'entities': [], 'text': 'fantastic four movie', 'project': 'spawn_wiki', 'model': 'spawn'}
+four CARDINAL
+{'intent': {'name': 'greet', 'confidence': 0.8836650848388672}, 'entities': [], 'text': 'how are you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.8836650848388672}, 'entities': [], 'text': 'how are you bitches', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['you bitches']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'search who is president of usa', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['usa']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6278278231620789}, 'entities': [], 'text': 'who is the president of United States', 'project': 'spawn_wiki', 'model': 'spawn'}
+United States GPE
+United States GPE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'president of United States', 'project': 'spawn_wiki', 'model': 'spawn'}
+United States GPE
+United States GPE
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Donald Trump', 'project': 'spawn_wiki', 'model': 'spawn'}
+Donald Trump PERSON
+Donald Trump PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is machine translation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['machine translation']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is neural translation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['neural translation']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.8318386077880859}, 'entities': [], 'text': 'skills', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Fourier Transform', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['Fourier Transform']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'system integration', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.8612271547317505}, 'entities': [], 'text': 'hi how are you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.5644187927246094}, 'entities': [], 'text': 'What is the share price of abou', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['the share']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.929422914981842}, 'entities': [], 'text': 'who is professor spawn', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['professor spawn']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'signal', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Avengers Infinity War movie', 'project': 'spawn_wiki', 'model': 'spawn'}
+Avengers Infinity War ORG
+Avengers Infinity War ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'release date of Avengers Infinity war', 'project': 'spawn_wiki', 'model': 'spawn'}
+Avengers Infinity PRODUCT
+Avengers Infinity PRODUCT
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Avengers Infinity War movie release date', 'project': 'spawn_wiki', 'model': 'spawn'}
+Avengers Infinity War ORG
+Avengers Infinity War ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Shikha Agarwal', 'project': 'spawn_wiki', 'model': 'spawn'}
+Shikha Agarwal PERSON
+Shikha Agarwal PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.9195468425750732}, 'entities': [], 'text': 'what can you do', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.895168662071228}, 'entities': [], 'text': 'what are your skills', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['your skills']}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.919914960861206}, 'entities': [], 'text': 'OK great', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.7578210830688477}, 'entities': [], 'text': 'you are a fantastic', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+Four CARDINAL
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is thanos', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['thanos']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.5193081498146057}, 'entities': [], 'text': 'brief me about thanos', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['thanos']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'guarantee sucess', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['sucess']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is a', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['a']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'beat', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is gokruze', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['gokruze']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.5286375880241394}, 'entities': [], 'text': 'what is the weather today', 'project': 'spawn_wiki', 'model': 'spawn'}
+today DATE
+today DATE
+{'intent': {'name': 'bot_quotes', 'confidence': 0.6014412045478821}, 'entities': [], 'text': 'today', 'project': 'spawn_wiki', 'model': 'spawn'}
+today DATE
+today DATE
+today DATE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'gokruze', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is hashtag avastha', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['hashtag avastha']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is avastha', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['avastha']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Amar', 'project': 'spawn_wiki', 'model': 'spawn'}
+Amar ORG
+Amar ORG
+Amar ORG
+Amar ORG
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is tomorrow', 'project': 'spawn_wiki', 'model': 'spawn'}
+tomorrow DATE
+tomorrow DATE
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is administrator', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['administrator']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Batman Rises', 'project': 'spawn_wiki', 'model': 'spawn'}
+Batman ORG
+Batman ORG
+{'intent': {'name': 'bot_shutup', 'confidence': 0.5971126556396484}, 'entities': [], 'text': 'The Dark Knight Rises', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['The Dark']}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.5971126556396484}, 'entities': [], 'text': 'The Dark Knight', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['The Dark Knight']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Dark Knight movie', 'project': 'spawn_wiki', 'model': 'spawn'}
+Dark Knight PERSON
+Dark Knight PERSON
+{'intent': {'name': 'greet', 'confidence': 0.6597403287887573}, 'entities': [], 'text': 'what are you doing today', 'project': 'spawn_wiki', 'model': 'spawn'}
+today DATE
+today DATE
+{'intent': {'name': 'spawn_name', 'confidence': 0.7341700196266174}, 'entities': [], 'text': 'what is spawn', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['spawn']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.7821542620658875}, 'entities': [], 'text': 'what do you know about tomorrow', 'project': 'spawn_wiki', 'model': 'spawn'}
+tomorrow DATE
+tomorrow DATE
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.8835815787315369}, 'entities': [], 'text': 'fantastic', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.9217586517333984}, 'entities': [], 'text': 'what is your name', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your name']}}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'bot_identity', 'confidence': 0.8754978179931641}, 'entities': [], 'text': 'who are you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.616065502166748}, 'entities': [], 'text': 'what is today', 'project': 'spawn_wiki', 'model': 'spawn'}
+today DATE
+today DATE
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is frequency', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['frequency']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is proguard', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['proguard']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define Optimisation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Optimisation']}}
+{'intent': {'name': 'greet', 'confidence': 0.6509495973587036}, 'entities': [], 'text': 'what are you doing', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.9119523167610168}, 'entities': [], 'text': 'help me with mathematics', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['mathematics']}}
+{'intent': {'name': 'bot_identity', 'confidence': 0.5784927606582642}, 'entities': [], 'text': 'I want to learn about electromagnetism', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['electromagnetism']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is electric current', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['electric current']}}
+{'intent': {'name': 'bot_quotes', 'confidence': 0.40792959928512573}, 'entities': [], 'text': 'tell me about Mumbai', 'project': 'spawn_wiki', 'model': 'spawn'}
+Mumbai GPE
+Mumbai GPE
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Damodar Das', 'project': 'spawn_wiki', 'model': 'spawn'}
+Damodar Das PERSON
+Damodar Das PERSON
+{'intent': {'name': 'bot_identity', 'confidence': 0.6112682819366455}, 'entities': [], 'text': 'I want to know about electromagnetism', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['electromagnetism']}}
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'bot_quotes', 'confidence': 0.40792959928512573}, 'entities': [], 'text': 'Tell me about Mumbai', 'project': 'spawn_wiki', 'model': 'spawn'}
+Mumbai GPE
+{'intent': {'name': 'bot_identity', 'confidence': 0.7477899789810181}, 'entities': [], 'text': "I don't know about Carlos Slim", 'project': 'spawn_wiki', 'model': 'spawn'}
+Carlos Slim PERSON
+Carlos Slim PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is electromagnetism', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['electromagnetism']}}
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is electro', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['electro']}}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'bot_quotes', 'confidence': 0.6745075583457947}, 'entities': [], 'text': 'tell me the local news', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['local news']}}
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'bot_identity', 'confidence': 0.7477899789810181}, 'entities': [], 'text': "I don't know about Pal Aslam", 'project': 'spawn_wiki', 'model': 'spawn'}
+Aslam PERSON
+Aslam PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.7910438179969788}, 'entities': [], 'text': 'what are your name', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your name']}}
+Narendra Modi PERSON
+{'intent': {'name': 'bot_quotes', 'confidence': 0.40792959928512573}, 'entities': [], 'text': 'tell me about electromagnetism', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['electromagnetism']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6681513786315918}, 'entities': [], 'text': 'where is Mumbai located', 'project': 'spawn_wiki', 'model': 'spawn'}
+Mumbai GPE
+Mumbai GPE
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.4207008183002472}, 'entities': [], 'text': 'is there where I can find the way', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['there'], 'movie': ['find the way']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is life', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['life']}}
+Mumbai GPE
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Indian', 'project': 'spawn_wiki', 'model': 'spawn'}
+Indian NORP
+Indian NORP
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'are you an idiot', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.9487878680229187}, 'entities': [], 'text': 'I am also doing great', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_thanks', 'confidence': 0.9027044773101807}, 'entities': [], 'text': 'thank you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.8973220586776733}, 'entities': [], 'text': 'shut up', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['up']}}
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'are you idiot', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+Narendra Modi PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.8159788250923157}, 'entities': [], 'text': 'how can I help you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.8805344700813293}, 'entities': [], 'text': 'are you ok', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_bye', 'confidence': 0.5376291275024414}, 'entities': [], 'text': 'black to hear back', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['back']}}
+{'intent': {'name': 'bot_bye', 'confidence': 0.5376291275024414}, 'entities': [], 'text': 'glad to hear that', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.677185595035553}, 'entities': [], 'text': 'can you set an alarm', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.6559321880340576}, 'entities': [], 'text': 'ok', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_skills', 'confidence': 0.9102859497070312}, 'entities': [], 'text': 'what can you do for me', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is neural network', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is machine', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['machine']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is artificial intelligence', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['artificial intelligence']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is system integration', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['system integration']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is operations', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['operations']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'nothing', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_skills', 'confidence': 0.9189339280128479}, 'entities': [], 'text': 'how can you help me', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is electron', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['electron']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is positron', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['positron']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Fernando Torres', 'project': 'spawn_wiki', 'model': 'spawn'}
+Fernando Torres PERSON
+Fernando Torres PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Hallelujah', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['Hallelujah']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Bible', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Bible', 'project': 'spawn_wiki', 'model': 'spawn'}
+Bible ORDINAL
+Bible ORDINAL
+{'intent': {'name': 'bot_skills', 'confidence': 0.9195468425750732}, 'entities': [], 'text': 'what else can you do', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_love', 'confidence': 0.8946451544761658}, 'entities': [], 'text': 'I like you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_thanks', 'confidence': 0.8827897310256958}, 'entities': [], 'text': 'no thanks', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['no thanks']}}
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'you are a very nice person', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['nice person']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Hollow', 'project': 'spawn_wiki', 'model': 'spawn'}
+Hollow PERSON
+Hollow PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'hologram', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is hologram', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['hologram']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Microsoft hologram', 'project': 'spawn_wiki', 'model': 'spawn'}
+Microsoft ORG
+Microsoft ORG
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Microsoft hologram', 'project': 'spawn_wiki', 'model': 'spawn'}
+Microsoft ORG
+Microsoft ORG
+{'intent': {'name': 'bot_skills', 'confidence': 0.6338562965393066}, 'entities': [], 'text': 'can you tell me about Google in', 'project': 'spawn_wiki', 'model': 'spawn'}
+Google ORG
+Google ORG
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Steve Jobs', 'project': 'spawn_wiki', 'model': 'spawn'}
+Steve Jobs PERSON
+Steve Jobs PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.48978284001350403}, 'entities': [], 'text': 'who was Steve Ballmer', 'project': 'spawn_wiki', 'model': 'spawn'}
+Steve Ballmer PERSON
+Steve Ballmer PERSON
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'you are very nice', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.9358057975769043}, 'entities': [], 'text': 'OK great fantastic', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_thanks', 'confidence': 0.8827897310256958}, 'entities': [], 'text': 'thanks', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_identity', 'confidence': 0.7341020107269287}, 'entities': [], 'text': 'who made you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'hahaha', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Aabra Ka Daabra', 'project': 'spawn_wiki', 'model': 'spawn'}
+Aabra Ka PERSON
+Aabra Ka PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Abracadabra', 'project': 'spawn_wiki', 'model': 'spawn'}
+Abracadabra PERSON
+Abracadabra PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define hologram', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['hologram']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define statistics', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['statistics']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is calculus', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['calculus']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is mathematics', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['mathematics']}}
+{'intent': {'name': 'bot_quotes', 'confidence': 0.6381458044052124}, 'entities': [], 'text': 'tell me about today', 'project': 'spawn_wiki', 'model': 'spawn'}
+today DATE
+today DATE
+{'intent': {'name': 'bot_skills', 'confidence': 0.651731550693512}, 'entities': [], 'text': "what's the weather", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['the weather']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.49248164892196655}, 'entities': [], 'text': 'what is the meaning of fantastic', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['fantastic']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Nintendo game', 'project': 'spawn_wiki', 'model': 'spawn'}
+Nintendo ORG
+Nintendo ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Sony Saga', 'project': 'spawn_wiki', 'model': 'spawn'}
+Sony ORG
+Sony ORG
+{'intent': {'name': 'bot_quotes', 'confidence': 0.5639503598213196}, 'entities': [], 'text': 'tell me the related thing about Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Amit Shah', 'project': 'spawn_wiki', 'model': 'spawn'}
+Amit Shah PERSON
+Amit Shah PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Rajnath Singh', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Rajnath Singh']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Ashok Chauhan', 'project': 'spawn_wiki', 'model': 'spawn'}
+Ashok Chauhan PERSON
+Ashok Chauhan PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Ashok Chauhan Congress', 'project': 'spawn_wiki', 'model': 'spawn'}
+Ashok Chauhan PERSON
+Ashok Chauhan PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Indian National Congress', 'project': 'spawn_wiki', 'model': 'spawn'}
+Indian National Congress ORG
+Indian National Congress ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'National Congress', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['National Congress']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Congress', 'project': 'spawn_wiki', 'model': 'spawn'}
+Congress ORG
+Congress ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Janata Dal', 'project': 'spawn_wiki', 'model': 'spawn'}
+Janata Dal PERSON
+Janata Dal PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Atal Bihari Vajpayee', 'project': 'spawn_wiki', 'model': 'spawn'}
+Atal Bihari Vajpayee PERSON
+Atal Bihari Vajpayee PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'PV Narasimha Rao', 'project': 'spawn_wiki', 'model': 'spawn'}
+PV Narasimha Rao PERSON
+PV Narasimha Rao PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Narasimha Rao', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narasimha Rao PERSON
+Narasimha Rao PERSON
+{'intent': {'name': 'bot_identity', 'confidence': 0.759152889251709}, 'entities': [], 'text': 'wow you know everything', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.8500593304634094}, 'entities': [], 'text': "no I don't need any help", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_thanks', 'confidence': 0.8229764699935913}, 'entities': [], 'text': 'ok thank you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Gregory calendar', 'project': 'spawn_wiki', 'model': 'spawn'}
+Gregory PERSON
+Gregory PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Gregorian Calendar', 'project': 'spawn_wiki', 'model': 'spawn'}
+Gregorian Calendar PERSON
+Gregorian Calendar PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define Gregorian Calendar', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Gregorian Calendar']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define personification', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is personification', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['personification']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'personification definition', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.45908305048942566}, 'entities': [], 'text': 'ok you have to train a little bit more I think', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Ajinkya Rahane', 'project': 'spawn_wiki', 'model': 'spawn'}
+Ajinkya Rahane PERSON
+Ajinkya Rahane PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Rashid Khan', 'project': 'spawn_wiki', 'model': 'spawn'}
+Rashid Khan PERSON
+Rashid Khan PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Rashid Khan cricketer', 'project': 'spawn_wiki', 'model': 'spawn'}
+Rashid Khan PERSON
+Rashid Khan PERSON
+Rashid Khan PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Rashid Khan Afghanistan', 'project': 'spawn_wiki', 'model': 'spawn'}
+Rashid Khan PERSON
+Rashid Khan PERSON
+Afghanistan GPE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'using idiot', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'I think you are an idiot', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.6991759538650513}, 'entities': [], 'text': "I don't need your help", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your help']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'his phone who is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'face on boys Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'greet', 'confidence': 0.6700758934020996}, 'entities': [], 'text': 'hello spawn how are you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7069501280784607}, 'entities': [], 'text': 'hello spawn who is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.8255072832107544}, 'entities': [], 'text': 'hello professor spawn who is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6879401803016663}, 'entities': [], 'text': 'professor spawn I just need your help for homework', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['professor'], 'movie': ['homework']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6879401803016663}, 'entities': [], 'text': 'professor spawn I need your help', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['professor'], 'tag': ['your help']}}
+Mumbai GPE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'right information', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['right information']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.4921964406967163}, 'entities': [], 'text': 'what is Right to Information', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'ITI', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'RTI', 'project': 'spawn_wiki', 'model': 'spawn'}
+RTI ORG
+RTI ORG
+{'intent': {'name': 'bot_hi', 'confidence': 0.9011735916137695}, 'entities': [], 'text': 'hello Google', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['hello Google']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.6991759538650513}, 'entities': [], 'text': "no I don't need your help", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your help']}}
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Abu Dhabi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Abu Dhabi ORG
+Abu Dhabi ORG
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'setup', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Rahul Gandhi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Rahul Gandhi PERSON
+Rahul Gandhi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Sonia Gandhi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Sonia Gandhi PERSON
+Sonia Gandhi PERSON
+Sonia Gandhi PERSON
+Sonia Gandhi PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.6892626285552979}, 'entities': [], 'text': 'what is my data balance and how are you going to help me', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['my data'], 'meaning': ['balance']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.8323830366134644}, 'entities': [], 'text': 'is there any way you can help me', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+Narendra Modi PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.9050025939941406}, 'entities': [], 'text': 'can you help me', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.8683340549468994}, 'entities': [], 'text': 'how are you doing', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.8973220586776733}, 'entities': [], 'text': 'nothing shut up', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['up']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.8253597617149353}, 'entities': [], 'text': 'what is your data balance', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your data'], 'meaning': ['balance']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.8375319242477417}, 'entities': [], 'text': 'what can you do for me and how are you doing and is there anything that I can help you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.5740637183189392}, 'entities': [], 'text': 'who is Narendra Modi and can you tell me who is Abu Dhabi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+Abu Dhabi PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.7619535326957703}, 'entities': [], 'text': 'can you tell me what is Hallelujah', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['Hallelujah']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.6004149317741394}, 'entities': [], 'text': 'what are the news', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['are the news']}}
+{'intent': {'name': 'bot_quotes', 'confidence': 0.40792959928512573}, 'entities': [], 'text': 'tell me about jeans', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['jeans']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.8990866541862488}, 'entities': [], 'text': 'OK great and what else can you do for me', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.7731117606163025}, 'entities': [], 'text': 'ok and is there anything that you can help me', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Udaipur', 'project': 'spawn_wiki', 'model': 'spawn'}
+Udaipur GPE
+Udaipur GPE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Vijay Bhandari', 'project': 'spawn_wiki', 'model': 'spawn'}
+Vijay Bhandari PERSON
+Vijay Bhandari PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Subhash maheriya', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Subhash maheriya']}}
+Narendra Modi PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Bharatiya Janata Party', 'project': 'spawn_wiki', 'model': 'spawn'}
+Bharatiya Janata Party ORG
+Bharatiya Janata Party ORG
+{'intent': {'name': 'bot_skills', 'confidence': 0.898775041103363}, 'entities': [], 'text': 'what are the other things you can do for me', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['other things']}}
+{'intent': {'name': 'greet', 'confidence': 0.8836650848388672}, 'entities': [], 'text': 'how when are you connected', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+Udaipur GPE
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.6559321880340576}, 'entities': [], 'text': 'Ok Google', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Ok Google']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.677185595035553}, 'entities': [], 'text': 'can you open Wikipedia', 'project': 'spawn_wiki', 'model': 'spawn'}
+Wikipedia ORG
+Wikipedia ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'launch WhatsApp', 'project': 'spawn_wiki', 'model': 'spawn'}
+WhatsApp ORG
+WhatsApp ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is my data balance', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['my data'], 'meaning': ['balance']}}
+{'intent': {'name': 'greet', 'confidence': 0.8836650848388672}, 'entities': [], 'text': 'how well are you connected', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7567914128303528}, 'entities': [], 'text': 'professor respond', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['professor']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Amar Thakur', 'project': 'spawn_wiki', 'model': 'spawn'}
+Amar Thakur PERSON
+Amar Thakur PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Dev', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Navi Mumbai', 'project': 'spawn_wiki', 'model': 'spawn'}
+Navi Mumbai ORG
+Navi Mumbai ORG
+{'intent': {'name': 'spawn_name', 'confidence': 0.8253597617149353}, 'entities': [], 'text': 'what is your goal', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your goal']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'yangad', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define masturbation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define Hasta la vista', 'project': 'spawn_wiki', 'model': 'spawn'}
+Hasta DATE
+Hasta DATE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'gyangarh', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_quotes', 'confidence': 0.6014412045478821}, 'entities': [], 'text': 'define today', 'project': 'spawn_wiki', 'model': 'spawn'}
+today DATE
+today DATE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Subhash bahediya', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Subhash bahediya']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define locomotive', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['locomotive']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Pappu', 'project': 'spawn_wiki', 'model': 'spawn'}
+Pappu PERSON
+Pappu PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'chemical reaction definition', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['chemical']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Pappu in India', 'project': 'spawn_wiki', 'model': 'spawn'}
+Pappu ORG
+Pappu ORG
+India GPE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'sodium bicarbonate reaction', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Sodium Bicarbonate', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Sodium Bicarbonate']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'bridal crafts reaction', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['bridal crafts']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'chemistry', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_quotes', 'confidence': 0.40792959928512573}, 'entities': [], 'text': 'tell me something about chemistry', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['chemistry']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define behaviour', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['behaviour']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define conjunction', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define stimuli', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['stimuli']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Kalyan Jewellers', 'project': 'spawn_wiki', 'model': 'spawn'}
+Kalyan Jewellers ORG
+Kalyan Jewellers ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Mahadev', 'project': 'spawn_wiki', 'model': 'spawn'}
+Mahadev ORG
+Mahadev ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Tejpal Singh', 'project': 'spawn_wiki', 'model': 'spawn'}
+Tejpal Singh PERSON
+Tejpal Singh PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Kalyan Jewellers Udaipur', 'project': 'spawn_wiki', 'model': 'spawn'}
+Kalyan Jewellers Udaipur ORG
+Kalyan Jewellers Udaipur ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Wikipedia', 'project': 'spawn_wiki', 'model': 'spawn'}
+Wikipedia ORG
+Wikipedia ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Fernando', 'project': 'spawn_wiki', 'model': 'spawn'}
+Fernando PERSON
+Fernando PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Italy', 'project': 'spawn_wiki', 'model': 'spawn'}
+Italy GPE
+Italy GPE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'fourier transform', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['fourier transform']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Fourier Series', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Fourier Series']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is Dodo', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['Dodo']}}
+{'intent': {'name': 'greet', 'confidence': 0.7671417593955994}, 'entities': [], 'text': 'you are awesome', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.6991759538650513}, 'entities': [], 'text': "nothing I don't want your help", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your help']}}
+Narendra Modi PERSON
+WhatsApp ORG
+{'intent': {'name': 'bot_quotes', 'confidence': 0.40792959928512573}, 'entities': [], 'text': 'tell me about WhatsApp', 'project': 'spawn_wiki', 'model': 'spawn'}
+WhatsApp ORG
+WhatsApp ORG
+WhatsApp ORG
+{'intent': {'name': 'bot_quotes', 'confidence': 0.40792959928512573}, 'entities': [], 'text': 'tell me about Facebook', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['Facebook']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.7821542620658875}, 'entities': [], 'text': 'what do you know about Mark Zuckerberg', 'project': 'spawn_wiki', 'model': 'spawn'}
+Mark Zuckerberg PERSON
+Mark Zuckerberg PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Mark Zuckerberg', 'project': 'spawn_wiki', 'model': 'spawn'}
+Mark Zuckerberg PERSON
+Mark Zuckerberg PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Modi ORG
+Modi ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Yadav', 'project': 'spawn_wiki', 'model': 'spawn'}
+Yadav PERSON
+Yadav PERSON
+Fernando PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Chundawat', 'project': 'spawn_wiki', 'model': 'spawn'}
+Chundawat PERSON
+Chundawat PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'kumpawat', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Ranawat', 'project': 'spawn_wiki', 'model': 'spawn'}
+Ranawat PERSON
+Ranawat PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Shekhawat', 'project': 'spawn_wiki', 'model': 'spawn'}
+Shekhawat ORG
+Shekhawat ORG
+{'intent': {'name': 'bot_identity', 'confidence': 0.6953442096710205}, 'entities': [], 'text': 'who are Shekhawat', 'project': 'spawn_wiki', 'model': 'spawn'}
+Shekhawat ORG
+Shekhawat ORG
+{'intent': {'name': 'bot_skills', 'confidence': 0.7821542620658875}, 'entities': [], 'text': 'what do you know about Narendra', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra GPE
+Narendra GPE
+{'intent': {'name': 'bot_skills', 'confidence': 0.7821542620658875}, 'entities': [], 'text': 'what do you know about Akshay', 'project': 'spawn_wiki', 'model': 'spawn'}
+Akshay PERSON
+Akshay PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Akshay', 'project': 'spawn_wiki', 'model': 'spawn'}
+Akshay ORG
+Akshay ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Akhilesh Yadav', 'project': 'spawn_wiki', 'model': 'spawn'}
+Akhilesh Yadav PERSON
+Akhilesh Yadav PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Mulayam Singh Yadav', 'project': 'spawn_wiki', 'model': 'spawn'}
+Mulayam Singh Yadav PERSON
+Mulayam Singh Yadav PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.6991759538650513}, 'entities': [], 'text': "I don't want your help", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your help']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.7821542620658875}, 'entities': [], 'text': 'what do you know about Fernando 2', 'project': 'spawn_wiki', 'model': 'spawn'}
+Fernando 2 PERSON
+Fernando 2 PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'call auto', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['auto']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Kalu', 'project': 'spawn_wiki', 'model': 'spawn'}
+Kalu PERSON
+Kalu PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Solomon karlo', 'project': 'spawn_wiki', 'model': 'spawn'}
+Solomon ORG
+Solomon ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Nigeria', 'project': 'spawn_wiki', 'model': 'spawn'}
+Nigeria GPE
+Nigeria GPE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'capital of Nigeria', 'project': 'spawn_wiki', 'model': 'spawn'}
+Nigeria GPE
+Nigeria GPE
+{'intent': {'name': 'bot_skills', 'confidence': 0.7821542620658875}, 'entities': [], 'text': 'what do you know about Taurus', 'project': 'spawn_wiki', 'model': 'spawn'}
+Taurus PRODUCT
+Taurus PRODUCT
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Taurus', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Virgo', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'spices', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_skills', 'confidence': 0.7821542620658875}, 'entities': [], 'text': 'what do you know about spices', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['spices']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define distinguish', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+today DATE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define perceive', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['perceive']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define sense', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define information', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'define environment', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['environment']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'environment definition', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['environment']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.7821542620658875}, 'entities': [], 'text': 'what do you know about amma', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['amma']}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Amar', 'project': 'spawn_wiki', 'model': 'spawn'}
+Amar ORG
+Amar ORG
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'jalam Singh', 'project': 'spawn_wiki', 'model': 'spawn'}
+Singh PERSON
+Singh PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Harmeet Singh', 'project': 'spawn_wiki', 'model': 'spawn'}
+Harmeet Singh PERSON
+Harmeet Singh PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Hanuman Singh', 'project': 'spawn_wiki', 'model': 'spawn'}
+Singh PERSON
+Singh PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Hanuman', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Hanuman', 'project': 'spawn_wiki', 'model': 'spawn'}
+Hanuman NORP
+Hanuman NORP
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Shani Dev', 'project': 'spawn_wiki', 'model': 'spawn'}
+Shani Dev PERSON
+Shani Dev PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Shani Maharaj', 'project': 'spawn_wiki', 'model': 'spawn'}
+Shani Maharaj PERSON
+Shani Maharaj PERSON
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Lord Shiva', 'project': 'spawn_wiki', 'model': 'spawn'}
+Shiva NORP
+Shiva NORP
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Goddess Parvati', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Goddess Parvati']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.8253597617149353}, 'entities': [], 'text': 'what is your error', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your error']}}
+{'intent': {'name': 'bot_quotes', 'confidence': 0.40792959928512573}, 'entities': [], 'text': 'tell me about World War 2', 'project': 'spawn_wiki', 'model': 'spawn'}
+World War 2 EVENT
+World War 2 EVENT
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'mathematics', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'machine learning', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'artificial intelligence', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['artificial intelligence']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6681513786315918}, 'entities': [], 'text': 'where is Sikkim located', 'project': 'spawn_wiki', 'model': 'spawn'}
+Sikkim ORG
+Sikkim ORG
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.7821542620658875}, 'entities': [], 'text': 'what do you know about Amar', 'project': 'spawn_wiki', 'model': 'spawn'}
+Amar ORG
+Amar ORG
+Narendra Modi PERSON
+{'intent': {'name': 'greet', 'confidence': 0.5675880312919617}, 'entities': [], 'text': 'what are you', 'project': 'spawn_wiki', 'model': 'spawn'}
+Serving on http://localhost:8080
+{'intent': {'name': 'bot_skills', 'confidence': 0.7408166527748108}, 'entities': [], 'text': 'how do I actually set of machine learning', 'project': 'spawn_wiki', 'model': 'spawn'}
+CRF MODEL LOADED
+{'success': True, 'entities': {}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is machine learning', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['machine learning']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.8327228426933289}, 'entities': [], 'text': 'how can you actually do and do and go and go and what the hell are you doing', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.5971126556396484}, 'entities': [], 'text': 'the greater', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['greater']}}
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.9102338552474976}, 'entities': [], 'text': 'great toe', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['great toe']}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.5971126556396484}, 'entities': [], 'text': 'the greater biyaj', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['greater biyaj']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is neural network translation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['neural network translation']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is neural network translatiob', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['neural network translatiob']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is neutron translation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['neutron translation']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is network translation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['network translation']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6136639714241028}, 'entities': [], 'text': 'what is network synthesis', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['network synthesis']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.929422914981842}, 'entities': [], 'text': 'who is professor spawn', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['professor spawn']}}
+{'intent': {'name': 'bot_thanks', 'confidence': 0.9125104546546936}, 'entities': [], 'text': 'ok thanks', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['ok thanks']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.9217586517333984}, 'entities': [], 'text': 'what is your name', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your name']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.9195468425750732}, 'entities': [], 'text': 'what can you do', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'whistling Woods', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['Woods']}}
+Narendra Modi PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Shahrukh Khan', 'project': 'spawn_wiki', 'model': 'spawn'}
+Shahrukh Khan PERSON
+Shahrukh Khan PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Kareena', 'project': 'spawn_wiki', 'model': 'spawn'}
+Kareena ORG
+Kareena ORG
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is Atal', 'project': 'spawn_wiki', 'model': 'spawn'}
+Atal PERSON
+Atal PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.6278278231620789}, 'entities': [], 'text': 'who is the chief minister of Maharashtra', 'project': 'spawn_wiki', 'model': 'spawn'}
+Maharashtra GPE
+Maharashtra GPE
+{'intent': {'name': 'spawn_name', 'confidence': 0.7098278403282166}, 'entities': [], 'text': 'who is', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Ho', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+{'intent': {'name': 'bot_identity', 'confidence': 0.7477899789810181}, 'entities': [], 'text': "I don't know about Kareena Kapoor", 'project': 'spawn_wiki', 'model': 'spawn'}
+Kareena Kapoor PERSON
+Kareena Kapoor PERSON
+{'intent': {'name': 'spawn_name', 'confidence': 0.867435097694397}, 'entities': [], 'text': 'which is your favourite movie', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_love', 'confidence': 0.684603214263916}, 'entities': [], 'text': 'do you like movies', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['movies']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.6278278231620789}, 'entities': [], 'text': 'who is the Prime Minister of India', 'project': 'spawn_wiki', 'model': 'spawn'}
+India GPE
+India GPE
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'play some music', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['some music']}}
+{'intent': {'name': 'spawn_name', 'confidence': 0.8253597617149353}, 'entities': [], 'text': 'what is your goal', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['your goal']}}
+{'intent': {'name': 'greet', 'confidence': 0.7671417593955994}, 'entities': [], 'text': 'you are awesome man', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['awesome man']}}
+India GPE
+{'intent': {'name': 'greet', 'confidence': 0.7671417593955994}, 'entities': [], 'text': 'you are awesome', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['awesome']}}
+{'intent': {'name': 'bot_thanks', 'confidence': 0.8229764699935913}, 'entities': [], 'text': 'ok thank you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_identity', 'confidence': 0.8754978179931641}, 'entities': [], 'text': 'who are you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_shutup', 'confidence': 0.8973220586776733}, 'entities': [], 'text': 'shut up', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['up']}}
+Narendra Modi PERSON
+Narendra Modi PERSON
+{'intent': {'name': 'bot_skills', 'confidence': 0.9102859497070312}, 'entities': [], 'text': 'what can you do for me', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'bot_love', 'confidence': 0.8946451544761658}, 'entities': [], 'text': "I don't like you", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': 'greet', 'confidence': 0.7880086302757263}, 'entities': [], 'text': 'you are a b****', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Yanam beach', 'project': 'spawn_wiki', 'model': 'spawn'}
+Yanam ORG
+Yanam ORG
+{'intent': {'name': 'greet', 'confidence': 0.8836650848388672}, 'entities': [], 'text': 'how are you beach', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['you beach']}}
+{'intent': {'name': 'bot_skills', 'confidence': 0.9050025939941406}, 'entities': [], 'text': 'can you help me with my course', 'project': 'spawn_wiki', 'model': 'spawn'}ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR:flask.app:Exception on /entity_extract [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.6/dist-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.6/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 32, in decorated
+    return f(*args, **kwargs)
+  File "/opt/spawn-nlp/nlp/nlp_flask_app.py", line 70, in get_ner_test
+    print(res.json())
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 892, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
