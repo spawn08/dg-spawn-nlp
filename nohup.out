@@ -1456,4 +1456,459 @@ WhatsApp ORG
 {'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'busy', 'project': 'spawn_wiki', 'model': 'spawn'}
 {'success': False, 'entities': None}
 {'intent': {'name': 'bot_hi', 'confidence': 0.8588588237762451}, 'entities': [], 'text': 'spawn', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}Serving on http://localhost:8080
+en
+where is it located
+{'intent': {'name': 'spawn_name', 'confidence': 0.5170751810073853}, 'entities': [], 'text': 'where is it located', 'project': 'spawn_wiki', 'model': 'spawn'}
+CRF MODEL LOADED
+{'success': True, 'entities': {'tag': ['it located']}}
+en
+where is 16 located
+{'intent': {'name': 'spawn_name', 'confidence': 0.5170751810073853}, 'entities': [], 'text': 'where is 16 located', 'project': 'spawn_wiki', 'model': 'spawn'}
+16 CARDINAL
+en
+where is cecum located
+{'intent': {'name': 'spawn_name', 'confidence': 0.5170751810073853}, 'entities': [], 'text': 'where is cecum located', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['cecum located']}}
+en
+who are you
+{'intent': {'name': 'bot_identity', 'confidence': 0.9023761749267578}, 'entities': [], 'text': 'who are you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+en
+Barack Obama
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Barack Obama', 'project': 'spawn_wiki', 'model': 'spawn'}
+Barack Obama PERSON
+en
+can you tell me about Barack Obama
+{'intent': {'name': 'bot_skills', 'confidence': 0.6011757850646973}, 'entities': [], 'text': 'can you tell me about Barack Obama', 'project': 'spawn_wiki', 'model': 'spawn'}
+Barack Obama PERSON
+hi
+हु इज़ बराक ओबामा
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'हु इज़ बराक ओबामा', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+बराक ओबामा
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'बराक ओबामा', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+en
+what can you do
+{'intent': {'name': 'bot_skills', 'confidence': 0.9184565544128418}, 'entities': [], 'text': 'what can you do', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+en
+I've got concepto
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': "I've got concepto", 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['got concepto']}}
+en
+what what do you do
+{'intent': {'name': 'bot_skills', 'confidence': 0.9003336429595947}, 'entities': [], 'text': 'what what do you do', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+hi
+कर लो स्लिम
+{'intent': {'name': 'bot_negation', 'confidence': 0.8470844626426697}, 'entities': [], 'text': 'कर लो स्लिम', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+पागल हो क्या
+{'intent': {'name': 'bot_negative', 'confidence': 0.8612827062606812}, 'entities': [], 'text': 'पागल हो क्या', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+पागल हो क्या
+hi
+पागल हो क्या
+hi
+पागल हो क्या
+hi
+पागल हो क्या
+hi
+पागल हो क्या
+hi
+मुझे अमित शाह के बारे में बताओ
+{'intent': {'name': 'bot_identity', 'confidence': 0.7835800647735596}, 'entities': [], 'text': 'मुझे अमित शाह के बारे में बताओ', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+None
+aap kya kar sakte ho
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'aap kya kar sakte ho', 'project': 'spawn_wiki', 'model': 'spawn'}
+None
+what can you do
+None
+what is your name
+{'intent': {'name': 'spawn_name', 'confidence': 0.8901980519294739}, 'entities': [], 'text': 'what is your name', 'project': 'spawn_wiki', 'model': 'spawn'}
+None
+what is your name
+None
+Pagal Ho Gaya
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Pagal Ho Gaya', 'project': 'spawn_wiki', 'model': 'spawn'}
+None
+pagal ho kya
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'pagal ho kya', 'project': 'spawn_wiki', 'model': 'spawn'}
+None
+Mujhe Narendra Modi ke bare mein batao
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Mujhe Narendra Modi ke bare mein batao', 'project': 'spawn_wiki', 'model': 'spawn'}
+hi
+कारलोस स्लिम
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'कारलोस स्लिम', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+नरेंद्र मोदी
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'नरेंद्र मोदी', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+अमित शाह
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'अमित शाह', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+माउंट एवरेस्ट
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'माउंट एवरेस्ट', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+आपका नाम क्या है
+{'intent': {'name': 'spawn_name', 'confidence': 0.8374618887901306}, 'entities': [], 'text': 'आपका नाम क्या है', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+आप क्या कर सकते हो
+{'intent': {'name': 'bot_skills', 'confidence': 0.889352560043335}, 'entities': [], 'text': 'आप क्या कर सकते हो', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+भारतीय जनता पार्टी
+{'intent': {'name': 'bot_negative', 'confidence': 0.7099400758743286}, 'entities': [], 'text': 'भारतीय जनता पार्टी', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+सोनिया गांधी
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'सोनिया गांधी', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+सोनिया गांधी के बारे में बताओ
+{'intent': {'name': 'bot_identity', 'confidence': 0.7835800647735596}, 'entities': [], 'text': 'सोनिया गांधी के बारे में बताओ', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+चुप रहो
+{'intent': {'name': 'bot_shutup', 'confidence': 0.8517260551452637}, 'entities': [], 'text': 'चुप रहो', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+आप पागल हो क्या
+{'intent': {'name': 'bot_negative', 'confidence': 0.923124372959137}, 'entities': [], 'text': 'आप पागल हो क्या', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+en
+federal system located
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'federal system located', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['federal system']}}
+en
+where is 16 located
+en
+second
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'second', 'project': 'spawn_wiki', 'model': 'spawn'}
+second ORDINAL
+en
+tell me something about Barack Obama
+{'intent': {'name': 'bot_identity', 'confidence': 0.5064192414283752}, 'entities': [], 'text': 'tell me something about Barack Obama', 'project': 'spawn_wiki', 'model': 'spawn'}
+Barack Obama PERSON
+en
+digital dice
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'digital dice', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['digital dice']}}
+en
+oh what a symphony is this
+{'intent': {'name': 'bot_work', 'confidence': 0.6217138767242432}, 'entities': [], 'text': 'oh what a symphony is this', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['this']}}
+en
+you are an idiot
+{'intent': {'name': 'bot_negative', 'confidence': 0.9224240183830261}, 'entities': [], 'text': 'you are an idiot', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+en
+what the hell are you doing
+{'intent': {'name': 'bot_work', 'confidence': 0.8487408757209778}, 'entities': [], 'text': 'what the hell are you doing', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+en
+what are you doing
+{'intent': {'name': 'bot_work', 'confidence': 0.8960569500923157}, 'entities': [], 'text': 'what are you doing', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+en
+okay
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'okay', 'project': 'spawn_wiki', 'model': 'spawn'}
 {'success': False, 'entities': None}
+en
+great
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.9289988279342651}, 'entities': [], 'text': 'great', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+en
+awesome
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.9234175086021423}, 'entities': [], 'text': 'awesome', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+en
+fantastic
+{'intent': {'name': 'bot_greet_reply', 'confidence': 0.8481823205947876}, 'entities': [], 'text': 'fantastic', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+en
+hey how are you
+{'intent': {'name': 'greet', 'confidence': 0.9084368348121643}, 'entities': [], 'text': 'hey how are you', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+en
+I want to know about Carlos
+{'intent': {'name': 'bot_identity', 'confidence': 0.6240273118019104}, 'entities': [], 'text': 'I want to know about Carlos', 'project': 'spawn_wiki', 'model': 'spawn'}
+Carlos PERSON
+en
+Carlos Slim can you
+{'intent': {'name': 'bot_skills', 'confidence': 0.7507970929145813}, 'entities': [], 'text': 'Carlos Slim can you', 'project': 'spawn_wiki', 'model': 'spawn'}
+Carlos Slim PERSON
+hi
+विश्वयुद्ध
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'विश्वयुद्ध', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+दूसरा विश्व युद्ध
+{'intent': {'name': 'spawn_name', 'confidence': 0.9248523712158203}, 'entities': [], 'text': 'दूसरा विश्व युद्ध', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+पहला विश्व युद्ध युद्ध
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'पहला विश्व युद्ध युद्ध', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+राहुल गांधी
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'राहुल गांधी', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+जवाहरलाल नेहरू
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'जवाहरलाल नेहरू', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+माउंट एवरेस्ट के बारे में बताओ
+{'intent': {'name': 'bot_identity', 'confidence': 0.7835800647735596}, 'entities': [], 'text': 'माउंट एवरेस्ट के बारे में बताओ', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+आप पागल हो क्या
+hi
+अरे आप पागल हो क्या
+{'intent': {'name': 'bot_negative', 'confidence': 0.6017049551010132}, 'entities': [], 'text': 'अरे आप पागल हो क्या', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+नरेंद्र मोदी के बारे में बताओ
+{'intent': {'name': 'bot_identity', 'confidence': 0.7835800647735596}, 'entities': [], 'text': 'नरेंद्र मोदी के बारे में बताओ', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+अरे ये डे
+{'intent': {'name': 'greet', 'confidence': 0.6523501873016357}, 'entities': [], 'text': 'अरे ये डे', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+चुप बैठ
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'चुप बैठ', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+en
+what do you know about Fernando Torres
+{'intent': {'name': 'bot_skills', 'confidence': 0.8005443811416626}, 'entities': [], 'text': 'what do you know about Fernando Torres', 'project': 'spawn_wiki', 'model': 'spawn'}
+Fernando Torres PERSON
+en
+Tibet
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Tibet', 'project': 'spawn_wiki', 'model': 'spawn'}
+Tibet GPE
+en
+wow
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'wow', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+en
+oh wow the wound the wire wow
+{'intent': {'name': 'bot_thanks', 'confidence': 0.3800840973854065}, 'entities': [], 'text': 'oh wow the wound the wire wow', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['wound the wire']}}
+en
+Batman Joker
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Batman Joker', 'project': 'spawn_wiki', 'model': 'spawn'}
+Batman Joker PERSON
+en
+Joker
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Joker', 'project': 'spawn_wiki', 'model': 'spawn'}
+Joker PERSON
+en
+hit Legend
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'hit Legend', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['hit Legend']}}
+en
+Heath Ledger
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Heath Ledger', 'project': 'spawn_wiki', 'model': 'spawn'}
+Heath Ledger ORG
+en
+I want to know about Heath Ledger
+{'intent': {'name': 'bot_identity', 'confidence': 0.6240273118019104}, 'entities': [], 'text': 'I want to know about Heath Ledger', 'project': 'spawn_wiki', 'model': 'spawn'}
+Heath Ledger ORG
+en
+capital of Maharashtra
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'capital of Maharashtra', 'project': 'spawn_wiki', 'model': 'spawn'}
+Maharashtra GPE
+en
+Pradhan mantri Jan dhan yojana
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Pradhan mantri Jan dhan yojana', 'project': 'spawn_wiki', 'model': 'spawn'}
+Pradhan GPE
+en
+John de Nugent
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'John de Nugent', 'project': 'spawn_wiki', 'model': 'spawn'}
+John de Nugent PERSON
+en
+Jan dhan yojana
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Jan dhan yojana', 'project': 'spawn_wiki', 'model': 'spawn'}
+Jan dhan yojana PERSON
+hi
+प्रधानमंत्री जन धन योजना
+{'intent': {'name': 'bot_thanks', 'confidence': 0.8003711104393005}, 'entities': [], 'text': 'प्रधानमंत्री जन धन योजना', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+प्रधानमंत्री जन धन योजना
+hi
+जन धन योजना
+{'intent': {'name': 'bot_thanks', 'confidence': 0.8003711104393005}, 'entities': [], 'text': 'जन धन योजना', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+प्रधानमंत्री आवास योजना
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'प्रधानमंत्री आवास योजना', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+आवास योजना
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'आवास योजना', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+आवास
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'आवास', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+हिंदू
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'हिंदू', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+हिंदू समाज
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'हिंदू समाज', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+मुस्लिम समुदाय
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'मुस्लिम समुदाय', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+मुस्लिम
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'मुस्लिम', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+ईसाई
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'ईसाई', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+जीसस क्रिस्ट
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'जीसस क्रिस्ट', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+यीशु मसीह
+{'intent': {'name': 'bot_love', 'confidence': 0.5086351633071899}, 'entities': [], 'text': 'यीशु मसीह', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+एबीसीडी
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'एबीसीडी', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+थ्री ईडियट्स मूवी
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'थ्री ईडियट्स मूवी', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+थ्री ईडियट्स
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'थ्री ईडियट्स', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+3 ईडियट्स पिक्चर
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': '3 ईडियट्स पिक्चर', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+3 ईडियट्स मूवी के बारे में बताओ
+{'intent': {'name': 'bot_identity', 'confidence': 0.7835800647735596}, 'entities': [], 'text': '3 ईडियट्स मूवी के बारे में बताओ', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+चुप
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'चुप', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+पागल है क्या तू
+{'intent': {'name': 'bot_negative', 'confidence': 0.8612827062606812}, 'entities': [], 'text': 'पागल है क्या तू', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+अबे ये डे
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'अबे ये डे', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+सिक्किम
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'सिक्किम', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+नरेंद्र मोदी
+hi
+नरेंद्र मोदी का उम्र क्या है
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'नरेंद्र मोदी का उम्र क्या है', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+en
+what is the age of Megan Dermody
+{'intent': {'name': 'bot_work', 'confidence': 0.5798255205154419}, 'entities': [], 'text': 'what is the age of Megan Dermody', 'project': 'spawn_wiki', 'model': 'spawn'}
+Megan Dermody PERSON
+en
+The Tonight Show
+{'intent': {'name': 'bot_thanks', 'confidence': 0.35156720876693726}, 'entities': [], 'text': 'The Tonight Show', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['The Tonight Show']}}
+en
+Conan O'Brien
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': "Conan O'Brien", 'project': 'spawn_wiki', 'model': 'spawn'}
+Conan O'Brien PERSON
+en
+PBS
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'PBS', 'project': 'spawn_wiki', 'model': 'spawn'}
+PBS ORG
+en
+Downton Abbey
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Downton Abbey', 'project': 'spawn_wiki', 'model': 'spawn'}
+Downton Abbey PERSON
+en
+can you tell me what is Game of Thrones
+{'intent': {'name': 'bot_skills', 'confidence': 0.7114481329917908}, 'entities': [], 'text': 'can you tell me what is Game of Thrones', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['Game of Thrones']}}
+en
+tell me about Game of Thrones series
+{'intent': {'name': 'bot_identity', 'confidence': 0.5064192414283752}, 'entities': [], 'text': 'tell me about Game of Thrones series', 'project': 'spawn_wiki', 'model': 'spawn'}
+Game of Thrones series EVENT
+en
+tell me about Game of Thrones
+{'intent': {'name': 'bot_identity', 'confidence': 0.5064192414283752}, 'entities': [], 'text': 'tell me about Game of Thrones', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['Game of Thrones']}}
+en
+Game of Thrones series
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Game of Thrones series', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+en
+Define Hallelujah
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Define Hallelujah', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Hallelujah']}}
+en
+what is hallelujah
+{'intent': {'name': 'bot_work', 'confidence': 0.6217138767242432}, 'entities': [], 'text': 'what is hallelujah', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['hallelujah']}}
+en
+can you tell me about Prophet Muhammad
+{'intent': {'name': 'bot_skills', 'confidence': 0.6011757850646973}, 'entities': [], 'text': 'can you tell me about Prophet Muhammad', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Prophet Muhammad']}}
+en
+peace be upon him
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'peace be upon him', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['peace']}}
+en
+Define wildin
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Define wildin', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['wildin']}}
+en
+Define violence
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Define violence', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['violence']}}
+en
+Define hostility
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Define hostility', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['hostility']}}
+en
+Define aggression
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Define aggression', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['aggression']}}
+en
+what is hallelujah
+en
+Define provocation
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Define provocation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['provocation']}}
+en
+bye-bye
+{'intent': {'name': 'bot_bye', 'confidence': 0.9230213761329651}, 'entities': [], 'text': 'bye-bye', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': False, 'entities': None}
+hi
+आपका नाम क्या है
+hi
+आप क्या कर सकते हो
+hi
+आप पागल हो क्या
+hi
+चुप रहो
+hi
+नरेंद्र मोदी
+hi
+आपके
+{'intent': {'name': 'spawn_name', 'confidence': 0.8374618887901306}, 'entities': [], 'text': 'आपके', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+आप कैसे हो
+{'intent': {'name': 'greet', 'confidence': 0.8971592783927917}, 'entities': [], 'text': 'आप कैसे हो', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+माउंट एवरेस्ट
+hi
+माउंट एवरेस्ट
+en
+tell me about Downton Abbey
+{'intent': {'name': 'bot_identity', 'confidence': 0.5064192414283752}, 'entities': [], 'text': 'tell me about Downton Abbey', 'project': 'spawn_wiki', 'model': 'spawn'}
+Downton Abbey PERSON
+en
+who is Conan O'Brien
+{'intent': {'name': 'spawn_name', 'confidence': 0.6987043619155884}, 'entities': [], 'text': "who is Conan O'Brien", 'project': 'spawn_wiki', 'model': 'spawn'}
+Conan O'Brien PERSON
+en
+The Tonight Show
+en
+who is Prophet Muhammad
+{'intent': {'name': 'spawn_name', 'confidence': 0.6987043619155884}, 'entities': [], 'text': 'who is Prophet Muhammad', 'project': 'spawn_wiki', 'model': 'spawn'}
+Prophet Muhammad PERSON
+en
+Define violence
+en
+what is Downton Abbey
+{'intent': {'name': 'bot_work', 'confidence': 0.6217138767242432}, 'entities': [], 'text': 'what is Downton Abbey', 'project': 'spawn_wiki', 'model': 'spawn'}
+Downton Abbey PERSON
+en
+who is Conan O'Brien
+en
+The Tonight Show
+en
+who was prophet Muhammad
+{'intent': {'name': 'bot_identity', 'confidence': 0.41359639167785645}, 'entities': [], 'text': 'who was prophet Muhammad', 'project': 'spawn_wiki', 'model': 'spawn'}
