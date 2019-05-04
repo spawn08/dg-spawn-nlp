@@ -1912,3 +1912,196 @@ The Tonight Show
 en
 who was prophet Muhammad
 {'intent': {'name': 'bot_identity', 'confidence': 0.41359639167785645}, 'entities': [], 'text': 'who was prophet Muhammad', 'project': 'spawn_wiki', 'model': 'spawn'}
+Muhammad PERSON
+en
+Define hostility
+en
+tell me about Downton Abbey
+en
+who is Conan O'Brien
+en
+Who is the
+{'intent': {'name': 'spawn_name', 'confidence': 0.6570312976837158}, 'entities': [], 'text': 'Who is the', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['the']}}
+en
+what is Ace
+{'intent': {'name': 'bot_work', 'confidence': 0.6217138767242432}, 'entities': [], 'text': 'what is Ace', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['Ace']}}
+en
+Ace of Spades
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Ace of Spades', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['Ace of Spades']}}
+en
+who is Conan O'Brien
+en
+The Tonight Show
+en
+who is Conan O'Brien
+en
+tell me about The Tonight Show
+{'intent': {'name': 'bot_quotes', 'confidence': 0.47516995668411255}, 'entities': [], 'text': 'tell me about The Tonight Show', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'movie': ['The Tonight Show']}}
+en
+who was prophet Muhammad
+en
+tell me about Downton Abbey
+en
+who is Conan O'Brien
+en
+who is Conan O'Brien
+en
+The Tonight Show
+en
+who was prophet Muhammad
+en
+tell me about Downton Abbey
+en
+Define violence
+en
+who is Brian Lara
+{'intent': {'name': 'spawn_name', 'confidence': 0.6987043619155884}, 'entities': [], 'text': 'who is Brian Lara', 'project': 'spawn_wiki', 'model': 'spawn'}
+Brian Lara PERSON
+en
+what is provocation
+{'intent': {'name': 'bot_work', 'confidence': 0.6217138767242432}, 'entities': [], 'text': 'what is provocation', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['provocation']}}
+en
+bye-bye
+hi
+आपका नाम क्या है
+hi
+आप क्या कर सकते हो
+hi
+आप पागल हो क्या
+hi
+चुप रहो
+hi
+नरेंद्र मोदी
+en
+Narendra Modi
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+en
+what can you do
+en
+who are you
+en
+what is your name
+en
+it hi
+{'intent': {'name': 'bot_hi', 'confidence': 0.8676217794418335}, 'entities': [], 'text': 'it hi', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {}}
+en
+I want to know about Mumbai
+{'intent': {'name': 'bot_identity', 'confidence': 0.6240273118019104}, 'entities': [], 'text': 'I want to know about Mumbai', 'project': 'spawn_wiki', 'model': 'spawn'}
+Mumbai GPE
+hi
+आपका नाम क्या है
+hi
+आप क्या कर सकते हो
+hi
+आप पागल हो
+{'intent': {'name': 'bot_negative', 'confidence': 0.923124372959137}, 'entities': [], 'text': 'आप पागल हो', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+चुप रहो
+hi
+माउंट एवरेस्ट
+en
+what is luster
+{'intent': {'name': 'bot_work', 'confidence': 0.6217138767242432}, 'entities': [], 'text': 'what is luster', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['luster']}}
+en
+what is lascar
+{'intent': {'name': 'bot_work', 'confidence': 0.6217138767242432}, 'entities': [], 'text': 'what is lascar', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['lascar']}}
+en
+lets get a timer
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'lets get a timer', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['a timer']}}
+en
+Las carretas
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Las carretas', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'meaning': ['Las carretas']}}
+en
+Al-Qaeda
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Al-Qaeda', 'project': 'spawn_wiki', 'model': 'spawn'}
+Al-Qaeda ORG
+en
+Islamic State of
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Islamic State of', 'project': 'spawn_wiki', 'model': 'spawn'}
+Islamic NORP
+en
+Islamic State
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Islamic State', 'project': 'spawn_wiki', 'model': 'spawn'}
+Islamic NORP
+en
+Isis
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Isis', 'project': 'spawn_wiki', 'model': 'spawn'}
+Isis ORG
+en
+Melisandre
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Melisandre', 'project': 'spawn_wiki', 'model': 'spawn'}
+Melisandre PERSON
+en
+dilwale dulhaniya lay Jain gay
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'dilwale dulhaniya lay Jain gay', 'project': 'spawn_wiki', 'model': 'spawn'}
+Jain GPE
+hi
+दिलवाले दुल्हनिया ले जायेंगे
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'दिलवाले दुल्हनिया ले जायेंगे', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+3 ईडियट्स
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': '3 ईडियट्स', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+आप पागल हो
+en
+Dil Wale dulhaniya
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'Dil Wale dulhaniya', 'project': 'spawn_wiki', 'model': 'spawn'}
+Dil Wale dulhaniya PERSON
+en
+audio lien
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'audio lien', 'project': 'spawn_wiki', 'model': 'spawn'}
+{'success': True, 'entities': {'tag': ['audio lien']}}
+en
+audio India
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'audio India', 'project': 'spawn_wiki', 'model': 'spawn'}
+India GPE
+en
+Define violence
+en
+who is Narendra Modi
+{'intent': {'name': 'spawn_name', 'confidence': 0.6987043619155884}, 'entities': [], 'text': 'who is Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+hi
+आप पागल है
+{'intent': {'name': 'bot_negative', 'confidence': 0.923124372959137}, 'entities': [], 'text': 'आप पागल है', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+यह सब गलत हो रहा है
+{'intent': {'name': 'bot_shutup', 'confidence': 0.8517260551452637}, 'entities': [], 'text': 'यह सब गलत हो रहा है', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+मुंबई में मौसम कितना है आज
+{'intent': {'name': None, 'confidence': 0.0}, 'entities': [], 'text': 'मुंबई में मौसम कितना है आज', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+सिक्किम के बारे में कुछ बताइए पागल
+{'intent': {'name': 'bot_negative', 'confidence': 0.5807666778564453}, 'entities': [], 'text': 'सिक्किम के बारे में कुछ बताइए पागल', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+सिक्किम के बारे में बताओ पागल
+{'intent': {'name': 'bot_negative', 'confidence': 0.5807666778564453}, 'entities': [], 'text': 'सिक्किम के बारे में बताओ पागल', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+सिक्किम के बारे में बताओ
+{'intent': {'name': 'bot_identity', 'confidence': 0.7835800647735596}, 'entities': [], 'text': 'सिक्किम के बारे में बताओ', 'project': 'spawn_wiki', 'model': 'spawn_hi'}
+hi
+सिक्किम के बारे में बताओ
+hi
+मुझे अमित शाह के बारे में बताओ
+hi
+मुझे अमित शाह के बारे में बताओ
+en
+can you tell me about Narendra Modi
+{'intent': {'name': 'bot_skills', 'confidence': 0.6011757850646973}, 'entities': [], 'text': 'can you tell me about Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
+Narendra Modi PERSON
+en
+who is Narendra Modi
+en
+tell me about Narendra Modi
+{'intent': {'name': 'bot_identity', 'confidence': 0.5064192414283752}, 'entities': [], 'text': 'tell me about Narendra Modi', 'project': 'spawn_wiki', 'model': 'spawn'}
